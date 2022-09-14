@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rekketio. Danya, 18 y.o from Pskov, Russia
+- 👋 Hi, I’m @rekketio. Danya, 19 y.o from Pskov, Russia
 - 👀 I’m interested in c/c++/c#, gamedev, 3d visual and other
-- 🌱 I’m currently learning c++
-- 📫 You can reach me: rekketio@gmail.com / tg @rekketio
+- 🌱 I’m currently working on a 3D PVP Medieval fantasy game as 3D Designer
+- 📫 You can reach me: rekketio@gmail.com / Telegram: @rekketio
